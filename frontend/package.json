@@ -2,6 +2,8 @@
   "name": "frontend",
   "proxy": "http://127.0.0.1:5000/",
   "version": "0.1.0",
+  "engines": 
+  { "node": "16.17.0" },
   "private": true,
   "dependencies": {
     "@kommunicate/kommunicate-chatbot-plugin": "^0.0.5",
@@ -27,8 +29,6 @@
     "redux-thunk": "^2.3.0",
     "styled-components": "^5.3.6"
   },
-  "engines": 
-  { "node": "16.17.0" },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
