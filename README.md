@@ -17,6 +17,7 @@
 - Mark orders as delivered option
 - Checkout process (shipping, payment method, etc)
 - PayPal / credit card integration
+- Stripe Integration
 - Database seeder (products & users)
 
 ```
